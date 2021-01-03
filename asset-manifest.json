@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/divyashreedivya/color-memory-game/static/css/main.682e76ae.chunk.css",
+    "main.js": "/divyashreedivya/color-memory-game/static/js/main.1d461b97.chunk.js",
+    "main.js.map": "/divyashreedivya/color-memory-game/static/js/main.1d461b97.chunk.js.map",
+    "runtime-main.js": "/divyashreedivya/color-memory-game/static/js/runtime-main.66fa93a0.js",
+    "runtime-main.js.map": "/divyashreedivya/color-memory-game/static/js/runtime-main.66fa93a0.js.map",
+    "static/js/2.a322841b.chunk.js": "/divyashreedivya/color-memory-game/static/js/2.a322841b.chunk.js",
+    "static/js/2.a322841b.chunk.js.map": "/divyashreedivya/color-memory-game/static/js/2.a322841b.chunk.js.map",
+    "static/js/3.a1d4bc0b.chunk.js": "/divyashreedivya/color-memory-game/static/js/3.a1d4bc0b.chunk.js",
+    "static/js/3.a1d4bc0b.chunk.js.map": "/divyashreedivya/color-memory-game/static/js/3.a1d4bc0b.chunk.js.map",
+    "index.html": "/divyashreedivya/color-memory-game/index.html",
+    "static/css/main.682e76ae.chunk.css.map": "/divyashreedivya/color-memory-game/static/css/main.682e76ae.chunk.css.map",
+    "static/js/2.a322841b.chunk.js.LICENSE.txt": "/divyashreedivya/color-memory-game/static/js/2.a322841b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66fa93a0.js",
+    "static/js/2.a322841b.chunk.js",
+    "static/css/main.682e76ae.chunk.css",
+    "static/js/main.1d461b97.chunk.js"
+  ]
+}

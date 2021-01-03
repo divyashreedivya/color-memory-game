@@ -1,0 +1,2 @@
+body{background-color:#000;color:#fff;font-size:1.5rem;margin:2%;text-align:center}.header{background-color:#280331}.header>p{padding:1%}.header>p,.scoreboard{text-align:left}.card-grid{display:flex;flex-wrap:wrap}.card{border-radius:15px;flex:1 1;margin:1%;padding:4%;letter-spacing:1px}.again,.win{display:none;color:#3f0;-webkit-animation:grow .5s ease-in-out;animation:grow .5s ease-in-out}@-webkit-keyframes grow{0%{transform:scale(0)}to{transform:scale(1)}}@keyframes grow{0%{transform:scale(0)}to{transform:scale(1)}}
+/*# sourceMappingURL=main.682e76ae.chunk.css.map */
